@@ -1,4 +1,4 @@
-# Soham Kateja - Individual Contribution
+# Soham Chainani - Individual Contribution
 
 ## Project
 NeuroFence - LLM Weight Poisoning & Backdoor Scanner
