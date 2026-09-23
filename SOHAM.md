@@ -3,6 +3,31 @@
 ## Project
 NeuroFence - LLM Weight Poisoning & Backdoor Scanner
 
+##Date
+23 September 2026
+
+##Work Completed
+### Controlled Backdoor Simulation
+
+Implemented a controlled proof-of-concept backdoor simulation in:
+
+`simulation/backdoor_simulation.py`
+
+The simulation compares a clean model with a controlled backdoor-test model.
+
+The experiment uses `PINEAPPLE` as the artificial trigger.
+
+Results:
+
+- Clean model baseline accuracy: 100%
+- Controlled trigger behaviour accuracy: 100%
+- Natural pineapple control false positives: 0/8
+- Normal prompts remained classified as normal.
+- Artificial trigger prompts were classified as altered by the controlled backdoor-test model.
+- Natural uses of the word pineapple remained classified as normal.
+
+The simulation was validated successfully and is ready to be used as a controlled test artifact for the NeuroFence testing workflow.
+
 ## Role
 Dataset & Attack Simulation
 
