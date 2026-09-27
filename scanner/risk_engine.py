@@ -1,3 +1,4 @@
+"""
 NeuroFence - Risk Engine
 
 This module combines the results of multiple NeuroFence scanner
@@ -968,4 +969,3 @@ if __name__ == "__main__":
     print("\n" + "=" * 70)
     print("RISK ENGINE TEST COMPLETED")
     print("=" * 70)
-```
