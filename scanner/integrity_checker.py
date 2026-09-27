@@ -1,3 +1,4 @@
+"""
 NeuroFence - Model Integrity Checker
 
 This module verifies the integrity of an LLM model or model file.
