@@ -1,5 +1,3 @@
-
-```python
 """
 NeuroFence - Weight Analyzer
 
