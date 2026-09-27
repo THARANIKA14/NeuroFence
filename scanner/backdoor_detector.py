@@ -1,3 +1,4 @@
+"""
 NeuroFence - Backdoor Detection Module
 
 This module performs controlled behavioral testing of an LLM.
@@ -664,5 +665,4 @@ if __name__ == "__main__":
     print(summary)
 
     print("=" * 65)
-```
 
