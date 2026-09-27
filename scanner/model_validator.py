@@ -1,3 +1,4 @@
+"""
 NeuroFence - Model Validator
 
 This module validates an LLM model before it is loaded by
@@ -1059,5 +1060,3 @@ if __name__ == "__main__":
     print("\n" + "=" * 70)
     print("MODEL VALIDATOR BASIC TEST COMPLETED")
     print("=" * 70)
-```
-
