@@ -1,10 +1,5 @@
 import streamlit as st
 
-# ============================================================
-# NeuroFence - LLM Weight Poisoning & Backdoor Scanner
-# Streamlit User Interface
-# ============================================================
-
 st.set_page_config(
     page_title="NeuroFence",
     page_icon="🛡️",
